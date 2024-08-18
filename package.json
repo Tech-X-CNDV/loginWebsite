@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tabler/icons-react": "^3.12.0",
+    "oneentry": "^1.0.79",
+    "react-router-dom": "^6.26.1"
+  }
+}
